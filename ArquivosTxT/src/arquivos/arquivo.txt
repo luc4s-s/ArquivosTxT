@@ -1,0 +1,3 @@
+Lucas gomes; lucas@gmail.com; 22
+maria; maria@gmail.com; 30
+jao; jao@gmail.com; 80
